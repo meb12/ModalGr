@@ -7,8 +7,8 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
-        String arquivo_entrada = "/Users/fatec/Desktop/ModalGR/aniversarios.txt";
-        String arquivo_saida = "/Users/fatec/Desktop/ModalGR/aniversarios_mes.txt";
+        String arquivo_entrada = "ModalGR/aniversarios.txt";
+        String arquivo_saida = "ModalGR/aniversarios_mes.txt";
 
         List<Aniversariantes> list = new ArrayList<>();
 
