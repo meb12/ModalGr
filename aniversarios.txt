@@ -1,0 +1,4 @@
+nome|email|dia
+Maria Eduarda Barbosa|maria@modalgr.com|12/02/2003
+Felipe Fernandes Valente|felipe@modalgr.com|07/11/2000
+Alvaro de Melo Santiago|alvaro@modalgr.com|06/11/1980
